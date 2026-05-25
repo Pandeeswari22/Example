@@ -8,4 +8,8 @@ public class GitExample {
 	}
 	
 	
+	private void Nisha() {
+		System.out.println("hi");
+
+	}
 }
