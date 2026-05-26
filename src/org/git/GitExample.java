@@ -10,5 +10,12 @@ public class GitExample {
 	
 	private void varsha() {
 		System.out.println("Hi");
+			}
+	
+	
+	private void sample1() {
+		System.out.println("Task");
+
 	}
+	
 }
